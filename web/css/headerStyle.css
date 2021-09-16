@@ -1,0 +1,42 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 18, 2021, 2:04:39 PM
+    Author     : anime
+*/
+body{
+   
+}
+.head_text{
+   padding-top:0.5% ; 
+  font-size: 40px;
+  background: -webkit-linear-gradient(#FF5733, #9633FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.header{
+    margin-top: -2%;
+    background : url("https://media.giphy.com/media/l3diQHfWU1S1Rowxi/giphy.gif");
+    background-repeat: no-repeat;    
+    background-size: cover;
+    height: 28%; 
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
+.welcome_text{
+    color: red;
+}
+.selectbar a{
+    text-decoration: none;
+    border: 1px black;
+    background-color: beige;
+    
+}
+.selectbar a:hover{
+    background-color: red;
+}
